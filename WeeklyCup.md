@@ -10,6 +10,10 @@
 * At any point before the cup you can swap out players in your team.
 * Standins are allowed, but have to be approved. Their MMR can't be higher than the MMR of the player they replace + 500.
 
+## Lobby
+* Lobbies are ticketed and will be created by the admin team only.
+* The lower seeded team will call the coin toss.
+
 ## In Game
 * Only the 5 approved players of each team are allowed in the lobby. No coaches, no extra observers.
 * Each team has 10 minutes of pause time per game.
