@@ -1,7 +1,7 @@
 # Inhouse Rules
 
 ## Registration
-* No registration needed. Inhouses are run on a first come first served basis. Lobbies will be created at the specified times and announced in the #Inhouse channel on our Discord. The first 10 players to join get to play
+* No registration needed. Inhouses are run on a first come first served basis. Lobbies will be created at the specified times and announced in the #Inhouse channel on our Discord. The first 10 players to join get to play.
 * Having played in one inhouse does not guarantee you a spot in the next one.
 
 ## In Game
