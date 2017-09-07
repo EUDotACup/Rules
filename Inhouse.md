@@ -3,14 +3,17 @@
 Inhouses are first and foremost to have fun. With that in mind we want to keep the rules to a bare minimum, but we also want to ensure everyone will be able to enjoy it.
 
 ## Registration
-* No registration needed. Inhouses are run on a first come first served basis. Lobbies will be created at the specified times and announced in the #Inhouse channel on our Discord. The first 10 players to join get to play.
-* Having played in one inhouse does not guarantee you a spot in the next one.
+* Inhouses are run using FaceIt, so you need a FaceIt account.
+* Click this invite link to join our hub: https://www.faceit.com/en/inv/6pYyOPO
+* Use the "play" button to queue up at any time!
+* Join our Discord server here to communicate with your team: http://discord.gg/MvUhFuy
 
 ## Lobby
-* Teams will be shuffled using the *balanced shuffle* option.
-* A /roll will decide the drafter on each team.
+* You will get invited to a lobby by a lobby bot.
 
 ## In Game
 * All chat is allowed, but keep it civil.
-* Toxic behaviour is not tolerated, not in chat and especially not in voice chat. There will be a huge skill disparity between players - keep that in mind should you feel the urge to flame someone.
+* Toxic behaviour is not tolerated, not in chat and especially not in voice chat. There may be a huge skill disparity between players - keep that in mind should you feel the urge to flame someone.
 * Excessive toxicity will get you banned from playing inhouses after one warning.
+
+Should there be problems of any kind, ideas, or feedback please leave a message in the #suggestion_box on our Discord or message us directly.
