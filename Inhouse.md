@@ -10,6 +10,7 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 
 ## Lobby
 * You will get invited to a lobby by a lobby bot.
+* Generally whoever is the captain in the FaceIt lobby should be the captain/drafter ingame, unless your team agrees otherwise.
 
 ## In Game
 * All chat is allowed, but keep it civil.
