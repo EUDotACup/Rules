@@ -17,5 +17,6 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 * Toxic behaviour is not tolerated, not in chat and especially not in voice chat. There may be a huge skill disparity between players - keep that in mind should you feel the urge to flame someone.
 * Excessive toxicity will get you banned from playing inhouses after one warning.
 * Games are played in Captains Mode, communication with your team is mandatory, ingame as well as during the drafting stage.
+* In case of disconnects or technical problems, pause the game. Up to 10min of pausing should be granted.
 
 Should there be problems of any kind, ideas, or feedback please leave a message in the #suggestion_box on our Discord or message us directly.
