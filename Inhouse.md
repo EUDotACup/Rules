@@ -18,5 +18,6 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 * Excessive toxicity will get you banned from playing inhouses after one warning.
 * Games are played in Captains Mode, communication with your team is mandatory, ingame as well as during the drafting stage.
 * In case of disconnects or technical problems, pause the game. Up to 10min of pause time should be granted.
+* Should someone get disconnected for longer / leave the game the same rules as in matchmaking apply: If there was First Blood the game counts.
 
 Should there be problems of any kind, ideas, or feedback please leave a message in the #suggestion_box on our Discord or message us directly.
