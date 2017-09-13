@@ -6,7 +6,7 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 * Inhouses are run using FaceIt, so you need a FaceIt account.
 * Click this invite link to join our hub: https://www.faceit.com/en/inv/6pYyOPO
 * Use the "play" button to queue up at any time!
-* Join our Discord server here to communicate with your team: http://discord.gg/MvUhFuy
+* Join our Discord server here: http://discord.gg/MvUhFuy
 
 ## Lobby
 * You will get invited to a lobby by a lobby bot.
