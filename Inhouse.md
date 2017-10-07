@@ -4,7 +4,7 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 
 ## Registration
 * Inhouses are run using FaceIt, so you need a FaceIt account.
-* Click this invite link to join our hub: https://www.faceit.com/en/inv/6pYyOPO
+* Click this link to join our hub: https://www.faceit.com/en/hub/6374f8e9-9bca-432b-b114-d7787b79f3f0/EU%20Inhouse%20League
 * Use the "play" button to queue up at any time!
 * Join our Discord server here: http://discord.gg/MvUhFuy
 
@@ -19,5 +19,7 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 * Games are played in Captains Mode, communication with your team is mandatory, ingame as well as during the drafting stage.
 * In case of disconnects or technical problems, pause the game. Up to 10min of pause time should be granted.
 * Should someone get disconnected for longer / leave the game: If there was First Blood and it's after 5:00 min the game counts.
+
+Basic understanding of the english language is required.
 
 Should there be problems of any kind, ideas, or feedback please leave a message in the #suggestion_box on our Discord or message us directly.
