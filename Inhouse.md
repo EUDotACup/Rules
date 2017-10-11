@@ -20,6 +20,8 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 * In case of disconnects or technical problems, pause the game. Up to 10min of pause time should be granted.
 * Should someone get disconnected for longer / leave the game: If there was First Blood and it's after 5:00 min the game counts.
 
-Basic understanding of the english language is required.
+## General
+* Basic understanding of the english language is required.
+* Dodging games based on player draft or other preferences is not allowed.
 
 Should there be problems of any kind, ideas, or feedback please leave a message in the #suggestion_box on our Discord or message us directly.
