@@ -6,7 +6,7 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 * Inhouses are run using FaceIt, so you need a FaceIt account.
 * Click this link to join our hub: https://www.faceit.com/en/hub/6374f8e9-9bca-432b-b114-d7787b79f3f0/EU%20Inhouse%20League
 * Use the "play" button to queue up at any time!
-* Join our Discord server here: http://discord.gg/MvUhFuy
+* **Mandatory** Join our Discord server here: http://discord.gg/MvUhFuy 
 
 ## Lobby
 * You will get invited to a lobby by a lobby bot.
@@ -15,7 +15,7 @@ Inhouses are first and foremost to have fun. With that in mind we want to keep t
 ## In Game
 * All chat is allowed, but keep it civil.
 * Toxic behaviour is not tolerated, not in chat and especially not in voice chat. There may be a huge skill disparity between players - keep that in mind should you feel the urge to flame someone.
-* Excessive toxicity will get you banned from playing inhouses after one warning.
+* Excessive toxicity or game ruining will get you banned from playing inhouses after one warning. Should we be unable to contact you in any way, Discord or Steam, you will get banned after the first offense.
 * Games are played in Captains Mode, communication with your team is mandatory, ingame as well as during the drafting stage.
 * In case of disconnects or technical problems, pause the game. Up to 10min of pause time should be granted.
 * Should someone get disconnected for longer / leave the game: If there was First Blood and it's after 5:00 min the game counts.
